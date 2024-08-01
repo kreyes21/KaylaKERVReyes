@@ -1,41 +1,55 @@
 # Learn About Kayla "KERV" Reyes
 
-Hello and thank you for coming to my page! If you could take a minute of your time to learn more about me I would greatly appreciate it. 
+### Reach Out
 
-### Small Summary
+[![Website Button](https://github.com/user-attachments/assets/37cbeb68-4fa7-4d9a-af59-1535f52267ab)](https://www.kervart.co)
+[![LinkedIn Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/f9f10cc9-490d-49a4-9444-1c45568c4275)](https://www.linkedin.com/in/kaylaereyes)
+[![Gmail Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/6913768e-3c4c-4d4e-b4a1-cc863b7b6a82)](mailto:kaylakervreyes@gmail.com)
 
-This is README.md serves as a synopsis detailing who I am and what I do. If anything piques your interest, I'd recommend heading over to my [Linkedin](https://www.linkedin.com/in/kaylaereyes) and [Website](https://www.kervart.co/). <i>I value the time you put into supporting me</i> :) 
+<!-- ### Small Summary
 
-> Note about Linkedin requests: I only respond to people who send me a <i>personalized note</i>. Otherwise, I won't know what your intentions are and where you may know me from.
+Hello and thank you for coming to my page! If you could take a minute of your time to learn more about me I would greatly appreciate it.
+
+This is README.md serves as a synopsis detailing who I am and what I do. If anything piques your interest, I'd recommend heading over to my [Linkedin](https://www.linkedin.com/in/kaylaereyes) and [Website](https://www.kervart.co/). <i>I value the time you put into supporting me</i> :) -->
+
+> Note about Linkedin requests: I respond faster to people who send me a [personalized note](https://www.linkedin.com/help/linkedin/answer/a563153) with their connection request. <!-- Otherwise, I won't know what your intentions are or where you may know me from. -->
 >
-> Note about Business inquiries: Please use the [Linkedin personalized note feature](https://www.linkedin.com/help/linkedin/answer/a563153) to let me know so I can refer you to my business email.
+> Note about Business inquiries: Please use the [Linkedin personalized note feature](https://www.linkedin.com/help/linkedin/answer/a563153) to let me know about your inquiry so I can refer you to my business email. You can also go to one of my [contact forms](https://www.kervart.co/services) on my website and send me a message.
 
 ## Recent Career Highligts
 
-🗣 A Linkedin Top Voice in Software Development
+<!-- | 🗣 A 3x Linkedin Top Voice | 🦸‍♀️ A Girls Who Code Alumni Advisory Council 2024 Member |
+| --- | --- |
+| Software Development | Former Girls Who Code College Loop Vice President & Social Media Coordinator |
+| Computer Science | Alumni of [2023 Work Prep Apprentinceship](https://girlswhocode.com/programs/college-and-career) hosted by [Pluralsight](https://www.pluralsight.com) [Certificate here](https://credsverse.com/credentials/d7b0039f-ad11-4ee7-b848-ad5ce05be285) |
+| Robotics | Alumni of [2023 Leadership Acedemy Fellowship](https://girlswhocode.com/programs/college-and-career) hosted by Raytheon Technologies ([RTX](https://www.rtx.com)) [Certificate here](https://credsverse.com/credentials/36004f2d-2d1a-471d-98d4-d04508592dc1) | -->
 
-🦸‍♀️ A Girls Who Code Alumni Advisory Council 2024 Member
+| 💡 3x Linkedin Top Voice |
+| :--- |
+| Software Development |
+| Computer Science |
+| Robotics |
 
-🗨 A panelist and speaker from STEAM Fest 2024
+| 🦸‍♀️ Girls Who Code Alumni Advisory Council 2024 Member |
+| :--- |
+| Former Girls Who Code College Loop Vice President & Social Media Coordinator |
+| Alumni of [2023 Work Prep Apprentinceship](https://girlswhocode.com/programs/college-and-career) hosted by [Pluralsight](https://www.pluralsight.com) [Certificate here](https://credsverse.com/credentials/d7b0039f-ad11-4ee7-b848-ad5ce05be285) |
+| Alumni of [2023 Leadership Acedemy Fellowship](https://girlswhocode.com/programs/college-and-career) hosted by Raytheon Technologies ([RTX](https://www.rtx.com)) [Certificate here](https://credsverse.com/credentials/36004f2d-2d1a-471d-98d4-d04508592dc1) |
 
-> STEM Professional Panel with Jayda Wade
-> 
-> Networking within the STEM Industry
-> 
-> Empowering Women in STEM
-> 
-> Keynote Speaker for Closing Ceremony
+| 🗣 Speaking Engagements | 
+| :--- |
+| 🗨 A panelist, judge, sponsor, and speaker at STEAM Fest 2024 | 
+| - *STEM Professional Panel with Jayda Wade [Read More](https://www.instagram.com/p/C7xhevmRIbq/?img_index=1)* |
+| - *Networking within the STEM Industry [Read More](https://www.instagram.com/p/C8JM4yvu8-y/?img_index=1)* |
+| - *Empowering Women in STEM [Read More](https://www.instagram.com/p/C8JM4yvu8-y/?img_index=1)* |
+| - *STEAM Fest Sponsor [Read More](https://www.instagram.com/p/C724gzURYOM/?img_index=1)* |
+| - *Keynote Speaker for Closing Ceremony* |
+| 👥 A facilitator at STEAM Quest 2024 hosted by Columbia University [Read More](https://www.linkedin.com/posts/kaylaereyes_steamquest-columbiauniversity-girlswhocode-activity-7210019577718607874-w_IM?utm_source=share&utm_medium=member_desktop) |
+| - *The Art of Designing Apps and Games* |
+| 🗯 A speaker at GoSTEM Computer Science Speaker Event with Jayda Wade [Read More](https://www.instagram.com/p/C8NwSZ5NkFV/) |
+| - *Computer Science Webinar: "How STEAM changed my life (and how it can change yours)"* |
 
-<!-- 🗯 A speaker from GoSTEM Computer Science Speaker Event with Jayda Wade -->
-
-👥 A facilitator from STEAM Quest 2024 hosted by Columbia University
-
->The Art of Designing Apps and Games
-
-### Reach Out
-
-[![LinkedIn Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/f9f10cc9-490d-49a4-9444-1c45568c4275)](https://www.linkedin.com/in/kaylaereyes)
-[![Gmail Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/6913768e-3c4c-4d4e-b4a1-cc863b7b6a82)](mailto:kaylakervreyes@gmail.com)
+> Note: To get a detailed list of my experience and accolades head over to my [Linkedin](https://www.linkedin.com/in/kaylaereyes).
 
 ## Career Goals
 
@@ -50,26 +64,32 @@ My career goals and aspirations can lay anywhere in tech. Some examples include 
 ★ User Interface
 ★ User Experience Design -->
 
+![Software Engineering](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/fff43d1c-9bcb-4cab-9c08-b2c71c5fbcb2)
+![Game Development](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/1f60b626-1936-4942-b4f5-68fdc8aaf988)
+![Information Technology](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/ce68508f-2c2f-43c9-a118-16c4d327dfba)
 ![Robotics](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/325bf147-e339-4711-9245-6b196831f71b)
 ![Transportation](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/d0fed9c4-8f80-4390-96d5-b277b86b646c)
-![Game Development](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/1f60b626-1936-4942-b4f5-68fdc8aaf988)
 ![Website Development Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/7ade04d8-bafc-4f3d-93b0-c3b34b7b5d9e)
 ![Project Management](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/92da242e-cadb-4a00-8945-df78811bcbc6)
-![Software Engineering](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/fff43d1c-9bcb-4cab-9c08-b2c71c5fbcb2)
-![Information Technology](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/ce68508f-2c2f-43c9-a118-16c4d327dfba)
 ![User Interface Design](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/2deb4669-bdd7-4f84-97de-36ada0418e72)
 ![User Experience Design](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/9b43bf10-db59-4aa0-b552-f763bf50f303)
 
-> Note: These are not in any particular order. I am eager to learn about any field to expand my knowledge in technology!
+> Note: These are not in any particular order outside of Software Engineering being my main focus right now. I am eager to learn about any field to expand my knowledge in the tech industry!
 
 ## Programming Languages
-![Python Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/b0b406de-4ad2-4097-945c-eab41b72dffd)
+
+### Main Focus
+
 ![HTML Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/e43bbe26-3f56-4cf4-8f53-62273048171c)
 ![CSS Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/2ba3c9c9-e8dd-496b-8234-3a2a9e875935)
+![JavaScript Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/8e77c22b-e17d-4ca2-a3c7-921f64446df8)
+
+### Decent Comprehension
+
+![Python Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/b0b406de-4ad2-4097-945c-eab41b72dffd)
 ![C Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/ed5dee9e-7f63-4b94-b03b-88925b00a281)
 ![C++ Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/9adf2870-850c-4c24-a727-b349e0a8c23d)
 ![C# Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/bc2b70be-5116-4aa4-9341-38f09455727a)
-![JavaScript Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/8e77c22b-e17d-4ca2-a3c7-921f64446df8)
 ![Java Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/4bdae453-4346-4285-8346-9f7debbd4d7a)
 ![Lua Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/4f6270f3-8aff-4736-9246-fed5bf9666ee)
 ![Swift Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/ca7419d0-fce7-49f5-98b8-89b75384d2a5)
