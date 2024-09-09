@@ -6,15 +6,16 @@
 [![LinkedIn Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/f9f10cc9-490d-49a4-9444-1c45568c4275)](https://www.linkedin.com/in/kaylaereyes)
 [![Gmail Button](https://github.com/kreyes21/KaylaKERVReyes/assets/105475276/6913768e-3c4c-4d4e-b4a1-cc863b7b6a82)](mailto:kaylakervreyes@gmail.com)
 
-<!-- ### Small Summary
+> Note about Linkedin requests: I respond faster to people who send me a [personalized note](https://www.linkedin.com/help/linkedin/answer/a563153) with their connection request. <!-- Otherwise, I won't know what your intentions are or where you may know me from. -->
+>
+> Note about Business inquiries: Please use the [Linkedin personalized note feature](https://www.linkedin.com/help/linkedin/answer/a563153) to let me know about your inquiry so I can refer you to my business email. You can also go to one of my [contact forms](https://www.kervart.co/services) on my website and send me a message.
+
+<!-- <!-- ### Small Summary
 
 Hello and thank you for coming to my page! If you could take a minute of your time to learn more about me I would greatly appreciate it.
 
 This is README.md serves as a synopsis detailing who I am and what I do. If anything piques your interest, I'd recommend heading over to my [Linkedin](https://www.linkedin.com/in/kaylaereyes) and [Website](https://www.kervart.co/). <i>I value the time you put into supporting me</i> :) -->
-
-> Note about Linkedin requests: I respond faster to people who send me a [personalized note](https://www.linkedin.com/help/linkedin/answer/a563153) with their connection request. <!-- Otherwise, I won't know what your intentions are or where you may know me from. -->
->
-> Note about Business inquiries: Please use the [Linkedin personalized note feature](https://www.linkedin.com/help/linkedin/answer/a563153) to let me know about your inquiry so I can refer you to my business email. You can also go to one of my [contact forms](https://www.kervart.co/services) on my website and send me a message.
+=======
 
 ## Recent Career Highligts
 
