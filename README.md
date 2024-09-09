@@ -26,7 +26,7 @@ This is README.md serves as a synopsis detailing who I am and what I do. If anyt
 > 
 > Keynote Speaker for Closing Ceremony
 
-<!-- 🗯 A speaker from GoSTEM Computer Science Speaker Event with Jayda Wade -->
+🗯 A speaker from GoSTEM Computer Science Speaker Event with Jayda Wade
 
 👥 A facilitator from STEAM Quest 2024 hosted by Columbia University
 
