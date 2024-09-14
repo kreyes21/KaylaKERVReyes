@@ -118,6 +118,10 @@ My career goals and aspirations can lay anywhere in tech. Some examples include 
 
 🎥 Casted to be in a [Girls Who Code and Apple commercial](https://youtu.be/edpJev-jyx4?si=kJGaNqyqRbsWTTPf&t=65)
 
+## Affiliations
+
+Girls Who Code, Rewriting the Code, ColorStack, CodePath, Reboot Representation, Women in Games, Society of Hispanic Professional Engineers (Undergraduate Member), and Society of Women Engineers (Undergraduate Member)
+
 > [!NOTE]
 > The colors used for my branding are <b>`#1c3a11`</b>, `#355923`, <b>`#497234`</b>, `#5f8d5b`, <b>`#a5c4a2`</b>.
 >
