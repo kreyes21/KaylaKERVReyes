@@ -1,18 +1,18 @@
 # Hello! 👋 My name is Kayla "KERV" Reyes
 
-Thank you for coming to my page! If you could take a minute of your time to learn more about me I would greatly appreciate it. 
+<!-- Thank you for coming to my page, If you could take a minute of your time to learn more about me I would greatly appreciate it. 
 
-### Small Summary
+### Small Summary -->
 
-This is README.md serves as a synopsis detailing who I am and what I do. If anything piques your interest, I'd recommend heading over to my [Linkedin](https://www.linkedin.com/in/kaylaereyes) and [Website](https://www.kervart.co/). <i>I value the time you put into supporting me</i> :) 
+This is README.md serves as a synopsis detailing who I am and what I do. If anything piques your interest, I'd recommend heading over to my [Linkedin](https://www.linkedin.com/in/kaylaereyes) and [Website](https://www.kervart.co/). <i>I value the time you put into supporting me</i> 🤗
 
-> Note about Linkedin requests: I only respond to people who send me a <i>personalized note</i>. Otherwise, I won't know what your intentions are and where you may know me from.
+<!-- > Note about Linkedin requests: I only respond to people who send me a <i>personalized note</i>. Otherwise, I won't know what your intentions are and where you may know me from.
 >
-> Note about Business inquiries: Please use the [Linkedin personalized note feature](https://www.linkedin.com/help/linkedin/answer/a563153) to let me know so I can refer you to my business email.
+> Note about Business inquiries: Please use the [Linkedin personalized note feature](https://www.linkedin.com/help/linkedin/answer/a563153) to let me know so I can refer you to my business email. -->
 
 ## Recent Career Highligts
 
-🗣 A Linkedin Top Voice in Software Development
+🗣 A 3x Linkedin Top Voice in Software Development, Computer Science and Robotics
 
 🦸‍♀️ A Girls Who Code Alumni Advisory Council 2024 Member
 
