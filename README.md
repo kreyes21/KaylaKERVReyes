@@ -1,6 +1,6 @@
-# Learn About Kayla "KERV" Reyes
+# Hello! 👋 My name is Kayla "KERV" Reyes
 
-Hello and thank you for coming to my page! If you could take a minute of your time to learn more about me I would greatly appreciate it. 
+Thank you for coming to my page! If you could take a minute of your time to learn more about me I would greatly appreciate it. 
 
 ### Small Summary
 
