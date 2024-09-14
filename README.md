@@ -28,9 +28,11 @@ This is README.md serves as a synopsis detailing who I am and what I do. If anyt
 
 🗯 A speaker from GoSTEM Computer Science Speaker Event with Jayda Wade
 
+> How STEAM changed my life and how it can change yours
+
 👥 A facilitator from STEAM Quest 2024 hosted by Columbia University
 
->The Art of Designing Apps and Games
+> The Art of Designing Apps and Games
 
 ### Reach Out
 
